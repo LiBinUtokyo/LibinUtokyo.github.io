@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "face_casual.png"
   name             : *name #"Your Sidebar Name"
-  pronouns         : he/him# example: "she/her"  
+  pronouns         : "he/him"# example: "she/her"  
   bio              : "Phd candidate in Kotani Lab"
   location         : "Chiba/Japan"
   employer         : "the University of Tokyo"
