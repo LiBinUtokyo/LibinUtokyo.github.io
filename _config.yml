@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bin Li / 李彬"
+title                    : "Bin Li's Academic Home Pages"
 title_separator          : "-"
 name                     : &name "Bin Li"
 description              : &description "Bin Li's Academic pages"
