@@ -7,13 +7,18 @@ redirect_from:
   - /resume
 ---
 
+<iframe src="http://academicpages.github.io/files/My_CV.pdf" width="100%" height="600px">
+    You can also download the PDF <a href="http://academicpages.github.io/files/My_CV.pdf">here</a>.
+</iframe>
+
+<!-- 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate, Graduate School of Frontier Science, the University of Tokyo, 2023 -- now
+* M.Eng., Graduate School of Engineering, the University of Tokyo, 2021 -- 2023
+* B.S., Department of Physics, Jilin University, 2017 -- 2021
 
 Work experience
 ======
@@ -61,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
