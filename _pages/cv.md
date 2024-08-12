@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="http://academicpages.github.io/files/My_CV.pdf" width="100%" height="600px">
-    You can also download the PDF <a href="http://academicpages.github.io/files/My_CV.pdf">here</a>.
+<iframe src="https://libinutokyo.github.io/files/My_CV.pdf" width="100%" height="600px">
+    You can also download the PDF <a href="https://libinutokyo.github.io/files/My_CV.pdf">here</a>.
 </iframe>
 
 <!-- 
