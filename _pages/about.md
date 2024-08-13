@@ -15,8 +15,7 @@ After studying physics at Jilin University for my undergraduate degree, I chose 
 
 # News
 
-
-
+***August 13, 2024*** <span style="display:inline-block; width: 2em;"></span> My academic home page is now live! ✨
 
 
 
