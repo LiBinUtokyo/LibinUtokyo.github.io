@@ -9,8 +9,19 @@ redirect_from:
 # About me
 Welcome! I am currently a PhD candidate (and receiving Research Fellowship for Young Scientists from JSPS, or 日本学術振興会特別研究員DC1 in Japanese) from the [Lab of Mathematical Biology and Bioengineering](http://neuron.t.u-tokyo.ac.jp/mbb/) within the [Department of Human and Engineered Environmental Studies, GSFS, UTokyo](https://www.h.k.u-tokyo.ac.jp/research/mbb/index_e.html), under the supervision of Prof. [Kotani](https://x.com/KiyoshiKotani). I earned my bachelor’s degree in physics from Jilin University and completed my master’s course at the School of Engineering, University of Tokyo. My research interest lies in computational neuroscience, particularly in exploring the biological plausibility of Spiking Neural Networks (SNNs) and employing them to simulate cognitive functions.
 
-<!-- During my previous studies, I improved the biological plausibility of neuron models in SNNs built by converting parameters from trained non-spiking one. I also studied how their performance on working memory tasks is affected by the regulation of excitatory and inhibitory signaling. In my PhD research, I am going to explore how a biologically plausible SNNs can connect with and regulate the activity of cultured neuron groups, and furtherer investigate the potential of using SNNs to assist the brain in performing cognitive functions.
+Profile in Japanese: 2023年東京大学大学院工学系研究科精密工学専攻修士課程修了．現在，同大学院新領域創成科学研究科博士課程在学中．スパイキングニューラルネットワーク(SNNs)を用いて神経回路によって生じる計算能力のメカニズムの研究に従事. 生成モデルによる脳波で演奏する新しい楽器の開発に従事．日本電気学会の学生会員，学振特別研究員DC1．
 
+<!-- During my previous studies, I improved the biological plausibility of neuron models in SNNs built by converting parameters from trained non-spiking one. I also studied how their performance on working memory tasks is affected by the regulation of excitatory and inhibitory signaling. In my PhD research, I am going to explore how a biologically plausible SNNs can connect with and regulate the activity of cultured neuron groups, and furtherer investigate the potential of using SNNs to assist the brain in performing cognitive functions.
+"2003年東京大学大学院工学系研究科精密機械工学専攻博士課程修了．同大学院新領域創成科学研究科講師，同大学先端科学技術研究センター准教授などを経て，現在，同大学院新領域創成科学研究科教授．非線形動力学，統計物理学，生体信号処理，ヒューマンインタフェースの研究に従事．日本生体医工学会，精密工学会の会員．工学博士
+
+"2023年東京大学大学院工学系研究科精密工学専攻修士課程修了．現在，同大学院新領域創成科学研究科博士課程在学中．スパイキングニューラルネットワーク(SNNS)を用いて、神経回路によって生じる計算能力のメカニズムの研究に従事。また、生成モデルによる脳波で演奏する新しい楽器の開発に従事．日本電気学会の学生会員，学振特別研究員DC1．
+利用脉冲神经网络研究神经连接产生计算能力的机制。利用脑波信号及生成式模型开发新型乐器。
+スパイキングニューラルネットワーク(SNNS)を用いて、神経回路によって生じる計算能力のメカニズムの研究に従事。また、生成モデルによる脳波で演奏する新しい楽器の開発に従事
+"
+
+
+
+"
 After studying physics at Jilin University for my undergraduate degree, I chose to go to the University of Tokyo for my master's research on SNNs. Continuing in this field for my PhD, I was honored to receive Research Fellowship for Young Scientist from Japan Society for the Promotion of Science. -->
 
 # News
