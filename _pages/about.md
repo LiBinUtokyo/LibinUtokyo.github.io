@@ -25,6 +25,8 @@ Profile in Japanese: 2023年東京大学大学院工学系研究科精密工学�
 After studying physics at Jilin University for my undergraduate degree, I chose to go to the University of Tokyo for my master's research on SNNs. Continuing in this field for my PhD, I was honored to receive Research Fellowship for Young Scientist from Japan Society for the Promotion of Science. -->
 
 # News
+***May 16, 2025*** <span style="display:inline-block; width: 2em;"></span> My paper <a href="https://github.com/LiBinUtokyo/LowRank_ModifiedTheta_SNN">“Neural oscillation in low-rank SNNs…”</a> has been accepted by Frontiers in Computational Neuroscience!✨
+
 ***January 16, 2025*** <span style="display:inline-block; width: 2em;"></span> Attended <a href="https://cbs.riken.jp/en/events/co_creation3/index.html">the 3rd RIKEN CBS Co-Creation International Conference</a>.
 
 ***September 21, 2024*** <span style="display:inline-block; width: 2em;"></span> Attended <a href="https://boatneck-weeder-7b7.notion.site/1st-Digital-Brain-Workshop-131a68936dda4867a88fedd25dfaac92">1st Digital Brain Workshop </a> in Tokyo.
