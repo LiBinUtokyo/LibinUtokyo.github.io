@@ -26,7 +26,7 @@ After studying physics at Jilin University for my undergraduate degree, I chose 
 
 # News
 
-***Jun 10, 2025*** <span style="display:inline-block; width: 2em;"></span> I finished RIKEN CBS Brain Science Training Program and received the certificate! 🎓 <a class="image-popup href="/images/BSTP.jpeg" title="BSTP photo"><img src="/images/BSTP.jpeg" alt="BSTP photo" style="width: 300px; height: auto;"></a>
+***Jun 10, 2025*** <span style="display:inline-block; width: 2em;"></span> I finished RIKEN CBS Brain Science Training Program and received the certificate! 🎓 <img src="/images/BSTP.jpeg" alt="BSTP photo" style="width: 300px; height: auto;">
 
 ***May 16, 2025*** <span style="display:inline-block; width: 2em;"></span> My paper <a href="https://github.com/LiBinUtokyo/LowRank_ModifiedTheta_SNN">“Neural oscillation in low-rank SNNs: bridging network dynamics and cognitive function”</a> has been accepted by Frontiers in Computational Neuroscience!✨
 
